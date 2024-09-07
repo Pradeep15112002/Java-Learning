@@ -11,11 +11,11 @@ public class ForLoop {
 
 		
 		
-//		for (Integer print : array) {
-//			System.out.println(print);
+for (Integer print : array) {
+			System.out.println(print);
 		}
 		
 		
 	}
-
+}
 
